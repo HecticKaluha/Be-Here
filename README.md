@@ -11,4 +11,10 @@ A platform for connecting with people with the same taste in alcohol and hobbies
   - Showing likes, matches and getting updates on your feed was never this clear!
   - Get updates upon logging in when you were "away"
 - Admin dashboard to manage tags, alcohol types and the likes
+  - Role based Auth & Access
+
+## Technologies used
+- Laravel
+- Blade
+- React
 
